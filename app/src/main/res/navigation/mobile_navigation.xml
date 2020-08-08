@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_features">
+
+    <fragment
+        android:id="@+id/navigation_features"
+        android:name="com.example.cobweb.ui.features.FeaturesFragment"
+        android:label="@string/title_features"
+        tools:layout="@layout/fragment_features" />
+
+    <fragment
+        android:id="@+id/navigation_connection"
+        android:name="com.example.cobweb.ui.connection.ConnectionFragment"
+        android:label="@string/title_connection"
+        tools:layout="@layout/fragment_connection" />
+
+    <fragment
+        android:id="@+id/navigation_user"
+        android:name="com.example.cobweb.ui.user.UserFragment"
+        android:label="@string/title_user"
+        tools:layout="@layout/fragment_user" />
+</navigation>

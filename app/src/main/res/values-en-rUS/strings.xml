@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">cobweb</string>
+    <string name="title_features">application</string>
+    <string name="title_connection">connection</string>
+    <string name="title_user">user</string>
+    <string name="text_name">name</string>
+    <string name="text_UID">UID</string>
+    <string name="text_TID">TID</string>
+    <string name="text_net_type">net type</string>
+    <string name="text_link_check_code">Check code</string>
+    <string name="text_net_parameter">net parameter</string>
+    <string name="position_main">182.92.189.228:5205</string>
+    <string name="position_aid_send">39.97.251.39:5202</string>
+    <string name="position_aid_accept">39.97.251.39:5203</string>
+    <string name="title_connection_one">one</string>
+    <string name="title_connection_group">group</string>
+    <string name="dialog_one_title">Create connection</string>
+    <string name="dialog_one_create">create</string>
+    <string name="dialog_one_cancel">cancel</string>
+    <string name="text_ID">ID</string>
+    <string name="message_refresh_success">refresh success</string>
+    <string name="contentDescription_connection_avatar">avatar</string>
+    <string name="button_features_message">Send message</string>
+    <string name="button_features_file">Send file</string>
+</resources>

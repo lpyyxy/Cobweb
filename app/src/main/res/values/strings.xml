@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">蛛网</string>
+    <string name="title_features">功能</string>
+    <string name="title_connection">连接</string>
+    <string name="title_user">用户</string>
+    <string name="text_name">名称</string>
+    <string name="text_UID">永久ID</string>
+    <string name="text_TID">临时ID</string>
+    <string name="text_net_type">网络类型</string>
+    <string name="text_link_check_code">校验码</string>
+    <string name="text_net_parameter">连接信息</string>
+    <string name="position_main">182.92.189.228:5205</string>
+    <string name="position_aid_send">39.97.251.39:5203</string>
+    <string name="position_aid_accept">39.97.251.39:5202</string>
+    <string name="title_connection_one">个人</string>
+    <string name="title_connection_group">组</string>
+    <string name="dialog_one_title">创建连接</string>
+    <string name="dialog_one_create">创建</string>
+    <string name="dialog_one_cancel">取消</string>
+    <string name="text_ID">ID</string>
+    <string name="error_A0402" translatable="false">无效的用户输入</string>
+    <string name="error_A0421" translatable="false">参数格式不匹配</string>
+    <string name="error_A0201" translatable="false">用户账户不存在</string>
+    <string name="error_A0410" translatable="false">请求必填参数为空</string>
+    <string name="error_A0130" translatable="false">校验码输入错误</string>
+    <string name="message_refresh_success">刷新成功</string>
+    <string name="contentDescription_connection_avatar">头像</string>
+    <string name="button_features_message">发送消息</string>
+    <string name="button_features_file">发送文件</string>
+    <string name="error_A0506" translatable="false">用户连接失败</string>
+    <string name="message_link_success" translatable="false">连接成功</string>
+    <string name="message_link_failure" translatable="false">连接失败</string>
+    <string name="message_link_connecting" translatable="false">连接中</string>
+    <string name="text_link_cut" translatable="false">断开连接</string>
+    <string name="text_link_setup" translatable="false">设置</string>
+    <string name="text_link_recording" translatable="false">记录</string>
+    <string name="text_link_tuser" translatable="false">临时用户</string>
+    <string name="message_link_timeout" translatable="false">连接超时</string>
+
+</resources>
